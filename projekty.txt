@@ -1,9 +1,16 @@
-Projekt 1: https://medincus.pl/
-Projekt 2: https://medincusactive.pl/
-Projekt 3: https://bms.legal/
-Projekt 4: https://dogtronic.io/
-Projekt 5: http://krysiak.pl/
-Projekt 6: https://haumi.pl/
-Projekt 7: https://p1mieszkania.pl/
-Projekt 8: https://doza.life/
-Projekt 9: https://profidesk.io/
+PAGES:
+https://medincus.pl/
+https://medincusactive.pl/
+https://bms.legal/
+https://dogtronic.io/
+https://haumi.pl/
+https://p1mieszkania.pl/
+https://profidesk.io/
+
+ONLINE STORE: 
+http://krysiak.pl/
+https://doza.life/
+
+APPLICATIONS:
+Via Vistula link do strony Dogtronic
+Inventa link do strony Dogtornic 
