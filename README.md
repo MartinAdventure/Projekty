@@ -12,7 +12,8 @@ Poniżej znajduje się lista projektów, które testowałem jako tester oprogram
 
 ### 🌐 Strony internetowe
 - 🏢 [Strona firmowa XYZ](https://www.przykladowastrona1.pl) – testy funkcjonalne ✅, testy UI 🎨, testy responsywności 📱  
-- 📰 [Portal informacyjny ABC](https://www.przykladowastrona2.pl) – testy wydajności ⚡, testy kompatybilności przeglądarek 🖥️  
+- 📰 [Portal informacyjny ABC](https://www.przykladowastrona2.pl) – testy wydajności ⚡, testy kompatybilności przeglądarek 🖥️
+- 📰 [Centrum medyczne Medincus](https://medincus.pl/) – testy wydajności ⚡, testy kompatybilności przeglądarek 🖥️  
 
 ### 📱 Aplikacje internetowe
 - ✅ [Aplikacja do zarządzania zadaniami](https://app-tasks.example.com) – testy API 🔗, testy UI 🎯, testy integracyjne 🔄  
